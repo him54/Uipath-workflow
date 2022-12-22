@@ -76,7 +76,7 @@
       <Assign.To>
         <OutArgument x:TypeArguments="x:Int32">[NewUserName]</OutArgument>
       </Assign.To>
-      <Assign.Value
+      <Assign.Value>
         <InArgument x:TypeArguments="x:Int32">[UserName.Length]</InArgument>
       </Assign.Value>
     </Assign>
