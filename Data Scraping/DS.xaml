@@ -21,8 +21,8 @@
       <x:String>System.Xml.Linq</x:String>
       <x:String>UiPath.Core</x:String>
       <x:String>UiPath.Core.Activities</x:String>
-      <x:String>System.Windows.Markup</x:String>
-      <x:String>UiPath.UIAutomationNext.Models.ExtractData</x:String>
+      <x:String>System.Windows.Markup</x:Strin
+      <x:String>UiPath.UIAutomationNext.Models.ExtractData</x:String
       <x:String>System.ComponentModel</x:String>
       <x:String>System.Runtime.Serialization</x:String>
       <x:String>System.Xml.Serialization</x:String>
